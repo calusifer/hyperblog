@@ -1,8 +1,8 @@
-esta es mi historia 
+esta ya no es mi historia 
 
 probando git_github
 
-Probando los cambios historicos
+Probando los cambios historicos y aprendiendo de los errores
 
 este es en read el segundo cambio , el primero fallo
 
