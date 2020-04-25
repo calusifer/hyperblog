@@ -6,3 +6,10 @@ Probando los cambios historicos
 
 este es en read el segundo cambio , el primero fallo
 
+
+para seguir con los ejemplos estoy agregando mas informacion para crear el tercer commit
+
+sigamos esperando
+
+
+
