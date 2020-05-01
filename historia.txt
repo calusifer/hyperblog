@@ -6,6 +6,9 @@ Probando los cambios historicos y aprendiendo de los errores
 
 este es en read el segundo cambio , el primero fallo
 
+-------------------------------------------------
+Prueba para el anexo de modificaciones en github 
+-------------------------------------------------
 
 para seguir con los ejemplos estoy agregando mas informacion para crear el tercer commit
 
